@@ -1,0 +1,10 @@
+.cards-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 80%;
+  gap: 20px;
+}
+
+/*# sourceMappingURL=Cards.css.map */
